@@ -1,6 +1,6 @@
 # Truck-Fleet-Risk-Analysis-using-Hadoop
 
-The project centers on evaluating driver safety and operational risk for a fictional nationwide logistics company, AZ National Trucking (ANT). The objective is to improve road safety and regulatory compliance by identifying drivers and vehicle models that exhibit high-risk behavior. By analyzing driving patterns such as speeding, harsh braking, unsafe following distance, and lane deviations, the project helps uncover critical risk indicators.
+This project centers on evaluating driver safety and operational risk for a fictional nationwide logistics company, AZ National Trucking (ANT). The objective is to improve road safety and regulatory compliance by identifying drivers and vehicle models that exhibit high-risk behavior. By analyzing driving patterns such as speeding, harsh braking, unsafe following distance, and lane deviations, the project helps uncover critical risk indicators.
 Leveraging the Hadoop ecosystem for large-scale data processing and Tableau for visualization, the solution transforms raw fleet and location data into actionable safety insights that can help reduce accidents and operational losses.
 
 
